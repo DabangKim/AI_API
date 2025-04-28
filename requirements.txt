@@ -3,3 +3,5 @@ dotenv
 openai
 tiktoken
 deepl
+yt-dlp
+youtube-transcript-api
